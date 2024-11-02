@@ -5,7 +5,7 @@
 ### Poetry 사용방법
 
 ```
-poetry init
+poetry init -n
 
 poetry install --no-root
 ```
